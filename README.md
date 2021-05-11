@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Viviani 👋
+
+- 🌱 I’m currently learning: SASS and Bootstrap.
+- ⚡ I'm planing to learn: JavaScript and ReactJS.
+- 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass.
 
 <!--
 **VivianiMartins/VivianiMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
