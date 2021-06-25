@@ -1,7 +1,7 @@
 ### Hi there, I'm Viviani 👋
 
-- 🌱 I’m currently learning: SASS and Bootstrap.
-- ⚡ I'm planing to learn: JavaScript and ReactJS.
+- 🌱 I’m currently learning: SASS, Bootstrap and JavaScript.
+- ⚡ I'm planing to learn: ReactJS.
 - 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass.
 
 <!--
