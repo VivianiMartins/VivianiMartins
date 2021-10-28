@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: SASS, Bootstrap and JavaScript.
 - ⚡ I'm planing to learn: ReactJS.
-- 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass.
+- 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass and Javascript.
 
 <!--
 **VivianiMartins/VivianiMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
