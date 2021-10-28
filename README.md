@@ -1,6 +1,8 @@
 ### Hi there, I'm Viviani 👋
 
-- 🌱 I’m currently learning: SASS, Bootstrap and JavaScript.
+  I started my career as web developer during 2020 and now I'm studing Computing Science.
+  
+- 🌱 I’m currently learning: JavaScript.
 - ⚡ I'm planing to learn: ReactJS.
 - 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass and Javascript.
 
