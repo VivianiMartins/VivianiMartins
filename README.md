@@ -2,9 +2,9 @@
 
   I started my career as web developer during 2020 and now I'm studying Computing Science.
   
-- 🌱 I’m currently learning: JavaScript.
-- ⚡ I'm planing to learn: ReactJS.
-- 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass and Javascript.
+- 🌱 I’m currently learning: C and Java.
+- ⚡ I'm planing to learn: Python.
+- 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass, Javascript and ReactJS.
 
 <!--
 **VivianiMartins/VivianiMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
