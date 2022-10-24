@@ -3,7 +3,7 @@
   I started my career as web developer during 2020 and now I'm studying Computing Science.
   
 - 🌱 I’m currently learning: C and Java.
-- ⚡ I'm planing to learn: Python.
+- ⚡ I'm planning to learn: Python.
 - 🔭 I’m currently working with: HTML, CSS, Bootstrap, Sass, Javascript and ReactJS.
 
 <!--
