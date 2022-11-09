@@ -1,6 +1,6 @@
 ### Hi there, I'm Viviani 👋
 
-  I started my career as web developer during 2020 and now I'm studying Computing Science.
+  I started my career as web developer during 2020 and now I'm studying Computer Science.
   
 - 🌱 I’m currently learning: C and Java.
 - ⚡ I'm planning to learn: Python.
