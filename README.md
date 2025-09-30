@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianiMartins&layout=compact&theme=dark&custom_title=Linguagens+Mais+Usadas+(+Most+used+languages+))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianiMartins&layout=default&theme=dark&custom_title=Linguagens+Mais+Usadas+(+Most+used+languages+))
